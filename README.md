@@ -1,6 +1,6 @@
 # DETR3D
 
-This repo is to build a lightweight BEV perception pipeline without relying on MMDET3D.
+This repo is to build a lightweight DETR3D without relying on MMDET3D. 
 
 ## Prepare Dataset
 
